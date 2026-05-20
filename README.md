@@ -3,7 +3,7 @@
 ---
 
 ### **NAME: Rajalakshmi R**  
-### **DEPARTMENT:  CSE(IOT) **  
+### **DEPARTMENT:  CSE(IOT)**  
 ### **ROLL NO: 212223110037**  
 ### **DATE OF EXPERIMENT: 20.05.2026<img width="652" height="722" alt="Screenshot 2026-05-20 114422" src="https://github.com/user-attachments/assets/586dd591-e76b-4e65-8073-bc5361b7fd4b" />
 **  
@@ -247,6 +247,8 @@ while True:
 2.	Screenshot of device control buttons.
 3.	Photo of hardware setup with Raspberry Pi and sensors.
 
+### Diagram
+<img width="1918" height="1062" alt="image" src="https://github.com/user-attachments/assets/69c2390e-e3fe-475a-8849-b5a133624795" />
 
 ### FIGURE -08 Relay On Image
 <img width="590" height="1278" alt="IMG_3516" src="https://github.com/user-attachments/assets/44830809-7b42-4182-8c7f-addc14f318e8" />
