@@ -5,8 +5,7 @@
 ### **NAME: Rajalakshmi R**  
 ### **DEPARTMENT:  CSE(IOT)**  
 ### **ROLL NO: 212223110037**  
-### **DATE OF EXPERIMENT: 20.05.2026<img width="652" height="722" alt="Screenshot 2026-05-20 114422" src="https://github.com/user-attachments/assets/586dd591-e76b-4e65-8073-bc5361b7fd4b" />
-**  
+### **DATE OF EXPERIMENT: 20.05.2026**  
 
 ---
 
